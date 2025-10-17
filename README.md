@@ -16,16 +16,12 @@ Applies core financial concepts like diversification and risk-return analysis
 
 **-Example Stock Symbols (Ticker Codes)**
 Company Name	               Ticker Symbol
-Apple Inc.	                      AAPL
-Microsoft Corp.	                  MSFT
-Tesla Inc.           	            TSLA
-Amazon.com Inc.	                  AMZN
-NVIDIA Corp.	                    NVDA
-Alphabet (Google)	              GOOG or GOOGL
-Meta Platforms (Facebook)        	META
-Netflix Inc.	                    NFLX
-JPMorgan Chase	                  JPM
-Coca-Cola Co.                   	KO
+Apple Inc.	                      [AAPL], 
+Microsoft Corp.	                  [MSFT],
+Tesla Inc.           	            [TSLA],
+Amazon.com Inc.	                  [AMZN],
+NVIDIA Corp.	                    [NVDA],
+Alphabet (Google)	              [GOOG or GOOGL],
 
 You can input any of these tickers (or others) to analyze their financial performance.
 
@@ -45,12 +41,3 @@ Calculate the portfolio’s overall risk and performance
 
 Save everything in a file named portfolio_analysis.xlsx
 
-**Example Output**
-
-Summary Table:
-Stock	Annual Return (%)
-AAPL	12.13
-MSFT	10.45
-TSLA	15.92
-Portfolio (Equal Weight)	12.83
-Portfolio Volatility: 31.4%
